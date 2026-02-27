@@ -1,4 +1,4 @@
-# we ar kitrz
-# we lov coding
-# we make cool stuffz
-# star our repozitoreez pleez
+## we ar kitrz
+## we lov coding
+## we make cool stuffz
+## star our repozitoreez pleez
